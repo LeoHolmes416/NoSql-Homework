@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1bed62f-3aed-42d3-9a1a-6b98ca19e8b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\apache-maven-3.6.3-bin\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3-bin" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3-bin\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lNQkNiPJZ9rE1tl7brp5FpuIX1" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../压缩包们/redis-demo" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bjtu.redis.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\兼职\idea-workspace\redis-demo\src\main\java\com\bjtu\redis\config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.redisDemo.RedisList">
+    <configuration name="redisDemo.RedisIncr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjtu.redis.jedis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjtu.redis.jedis" />
+      <option name="MAIN_CLASS_NAME" value="com.bjtu.redis.jedis.redisDemo" />
+      <option name="METHOD_NAME" value="RedisIncr" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="redisDemo.RedisJsonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjtu.redis.jedis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjtu.redis.jedis" />
+      <option name="MAIN_CLASS_NAME" value="com.bjtu.redis.jedis.redisDemo" />
+      <option name="METHOD_NAME" value="RedisJsonTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="redisDemo.RedisList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjtu.redis.jedis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjtu.redis.jedis" />
+      <option name="MAIN_CLASS_NAME" value="com.bjtu.redis.jedis.redisDemo" />
+      <option name="METHOD_NAME" value="RedisList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="redisDemo.basicUse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjtu.redis.jedis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjtu.redis.jedis" />
+      <option name="MAIN_CLASS_NAME" value="com.bjtu.redis.jedis.redisDemo" />
+      <option name="METHOD_NAME" value="basicUse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bjtu.redis.RedisDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.redisDemo.RedisList" />
+        <item itemvalue="JUnit.redisDemo.RedisJsonTest" />
+        <item itemvalue="JUnit.redisDemo.RedisIncr" />
+        <item itemvalue="JUnit.redisDemo.basicUse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1bed62f-3aed-42d3-9a1a-6b98ca19e8b7" name="Default Changelist" comment="" />
+      <created>1607435210977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607435210977</updated>
+      <workItem from="1607435213483" duration="2267000" />
+      <workItem from="1607437979070" duration="4386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1607435684865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1607435684865" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1607439377566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1607439377566" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607440067800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1607440067800" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1607441727548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1607441727548" />
+    <state width="1493" height="119" key="GridCell.Tab.0.bottom" timestamp="1607442510431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="119" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1607442510431" />
+    <state width="1493" height="119" key="GridCell.Tab.0.center" timestamp="1607442510431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="119" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1607442510431" />
+    <state width="1493" height="119" key="GridCell.Tab.0.left" timestamp="1607442510431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="119" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1607442510431" />
+    <state width="1493" height="119" key="GridCell.Tab.0.right" timestamp="1607442510431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="119" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1607442510431" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1607440273760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1607440273760" />
+    <state x="565" y="190" key="chooseDestDirectoryDialog" timestamp="1607435496941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="190" key="chooseDestDirectoryDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1607435496941" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1607437978835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1607437978835" />
+  </component>
+</project>
